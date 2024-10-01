@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 01 22:40:53 GMT 2024","Tue Oct 01 22:40:59 GMT 2024","6069","","allure.StepsTest","","allure.StepsTest","testLambdaStep","Создание Issue для авторизованного пользователя",""

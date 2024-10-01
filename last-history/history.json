@@ -1,0 +1,1 @@
+{"cb69d9ad4099fe23cf6a49e48ddc1ee":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"906a14b9807dd360","reportUrl":"https://sbrownbear.github.io/allure-reports/5//#testresult/906a14b9807dd360","status":"passed","time":{"start":1727822453583,"stop":1727822459652,"duration":6069}}]}}
